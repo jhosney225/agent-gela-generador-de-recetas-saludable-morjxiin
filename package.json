@@ -1,0 +1,6 @@
+{
+  "name": "agent-gela-generador-de-recetas-saludable-morjxiin",
+  "version": "1.0.0",
+  "description": "Proyecto de Gela [Gen10]: generador de recetas saludables con calorias",
+  "main": "index.js"
+}
